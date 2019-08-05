@@ -1,3 +1,2 @@
 # Lego-Help
-Automatically bevel all selected objects
-For blender 2.8
+Automatically bevel all selected objects. For blender 2.8
